@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/css/main.5411400d.css",
+    "main.js": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/js/main.53de9706.js",
+    "static/media/ImoIcon.png": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/media/ImoIcon.06910d8fc74ef2da0270.png",
+    "static/media/EmailIcon.png": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/media/EmailIcon.9800434dcd844b3dca3f.png",
+    "static/media/WhatsppIcon.png": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
+    "index.html": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/index.html",
+    "main.5411400d.css.map": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/css/main.5411400d.css.map",
+    "main.53de9706.js.map": "/Dutch_Bangla_Bank_HABIGANJ_SADAR_HABIGANJ/static/js/main.53de9706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5411400d.css",
+    "static/js/main.53de9706.js"
+  ]
+}
